@@ -16,8 +16,10 @@
     // Settings effective only when "spectator" is true// "spectator"がtrueの場合のみ有効な設定
     "specListen": true, // Allow spectators to hear non-spectator players (default: true)// スペクテイターが他モードプレイヤーの会話を聞けるようにするか (デフォルト: true)
     "specDim": false, // Separate conversations among spectators by dimension (default: false)// スペクテイター同士の会話をディメンションごとに分けるか (デフォルト: false)
-    "password": false, // Require password for Proximity VC connection (default: false)// 近接VC接続時にパスワードを要求するか (デフォルト: false)
+    "password": false, // For old vesion //古いバージョン用
+    "verify": false, // Require verify code for Proximity VC connection (default: false)// 近接VC接続時に認証コードを要求するか (デフォルト: false)
     
     "distance": 10, // Maximum block distance for voice to reach in-game (default: 10.0)// ゲーム内で声が届く最大ブロック数 (デフォルト: 10.0)
     "lang": "en" // Language setting ("ja" or "en")// 表示言語の設定 ("ja" または "en")
+
 }
