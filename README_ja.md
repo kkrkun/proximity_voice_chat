@@ -2,7 +2,7 @@
 
 [![Wiki](https://img.shields.io/badge/Wiki-Documentation-blue?style=for-the-badge&logo=read-the-docs)](https://mcproxvc.ovh/wiki/)
 [![Download](https://img.shields.io/badge/Download-Latest_Release-green?style=for-the-badge&logo=minecraft)](https://github.com/kkrkun/MCBE-ProxVC/releases/latest)
-[![Discord](https://img.shields.io/badge/Discord-link-blue?style=flat&logo=discord&logoColor=white)](https://discord.com/invite/bQcFBKnhSQ)
+[![Discord](https://img.shields.io/badge/Discord-link-blue?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/bQcFBKnhSQ)
 
 Minecraft Bedrock Edition（統合版）に**近接ボイスチャット**と**近接テキストチャット**の機能を追加するアドオンです。
 Java版Modのような、距離に応じた臨場感のある会話を実現します。
